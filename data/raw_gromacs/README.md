@@ -5,9 +5,9 @@
 | re.session.login5.hrlee.018425.0013.tar.gz | 60         | 60 gpus | 1     |      |
 | re.session.login5.hrlee.018425.0017.tar.gz | 120        | 120 gpus| 1     |      |
 | re.session.login5.hrlee.018425.0018.tar.gz | 240        | 240 gpus| 1     |      |
-| re.session.login5.hrlee.018425.0020.tar.gz | 480        | 480 gpus| 1     |      |
+| ~~re.session.login5.hrlee.018425.0020.tar.gz~~ | 480        | 480 gpus| 1     | broken |
+| re.session.login5.hrlee.018425.0020-fixed.tar.bz | 480    | 480 gpus| 1    | fixed  |
 | ~~re.session.login1.hrlee.018429.0030.tar.gz~~ | 1920     | 1920gpus| 1     | broken |
-| re.session.login5.hrlee.018425.0020-fixed.tar.bz | 1920    | 1920gpus| 1    | fixed  |
 | re.session.login4.hrlee.018431.0000.tar.gz | 1920       | 1920gpus| 1     |      |
 
 ## N iteration
