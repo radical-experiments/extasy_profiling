@@ -10,8 +10,10 @@
 | re.session.login5.hrlee.018425.0020-fixed.tar.bz | 480    | 480 gpus| 1    | fixed  |
 | ~~re.session.login1.hrlee.018429.0030.tar.gz~~ | 1920     | 1920gpus| 1     | broken |
 | re.session.login4.hrlee.018431.0000.tar.gz | 1920       | 1920gpus| 1     |      |
+| re.session.login1.hrlee.018443.0011.tar.gz | 1920       | 1920gpus| 1     |**NEW**|
 
-**re.session.login3.hrlee.018443.0007.tar.gz** includes enhanced RMQ communication at EnTK, i.e. https://github.com/radical-cybertools/radical.entk/pull/466. 
+**re.session.login3.hrlee.018443.0007.tar.gz** includes new PR, reduced RMQ synchronization at EnTK, i.e. https://github.com/radical-cybertools/radical.entk/pull/466. 
+**re.session.login1.hrlee.018443.0011.tar.gz** includes new PR, reduced RMQ synchronization at EnTK, i.e. https://github.com/radical-cybertools/radical.entk/pull/466. 
 
 ## N iteration
 
