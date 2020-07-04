@@ -10,7 +10,7 @@
 | re.session.login3.hrlee.018445.0001.tar.gz | 960        | 960gpus | 1     | **hotfix/prte_profiling** |
 | ~~re.session.login5.hrlee.018445.0005.tar.gz~~ | 1920       | 1920gpus| 1     | Broken, **hotfix/prte_profiling** |
 | re.session.login1.hrlee.018446.0004.tar.gz | 1920       | 1920gpus| 1     | **hotfix/prte_profiling** |
-
+| re.session.login1.hrlee.018446.0005.tar.gz | 3840       | 3849gpus| 1     | FAILED 411/3840 |
 
 
 ### Outdated
