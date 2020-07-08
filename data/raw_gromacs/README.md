@@ -13,6 +13,10 @@
 | re.session.login1.hrlee.018446.0005.tar.gz | 3840       | 3840gpus| 1     | FAILED 411/3840, rp DEBUG NOT enabled |
 | re.session.login1.hrlee.018447.0000.tar.gz | 3840       | 3840gpus| 1     | FAILED |
 
+### Two sub-agents
+
+- re.session.login4.hrlee.018451.0002.tar.gz, Failed
+
 
 ### Outdated
 
