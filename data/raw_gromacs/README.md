@@ -16,6 +16,7 @@
 ### Two sub-agents
 
 - re.session.login4.hrlee.018451.0002.tar.gz, Failed
+- re.session.login4.hrlee.018451.0003.tar.gz, Failed, RADICAL_SAGA_PTY_LOG_LVL=DEBUG set to `pty.log`
 
 
 ### Outdated
